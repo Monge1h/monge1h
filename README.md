@@ -3,7 +3,13 @@
 <h3 align="center">I'm a software engineer that loves to create creatives projects</h3>
 
 ---
-- 🚀 I’m currently working at [terapify](https://www.terapify.com/) as a backend developer
+- 🚀 I’m currently working at [terapify](https://www.terapify.com/)
+
+- 👨‍💻 All of my projects are available on my [portfolio](https://www.monge1h.com/projects)
+
+- 📝 I regularly write articles on my [blog](https://www.monge1h.com/blog)
+
+- 📫 How to reach me -> **hey@monge1h.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
