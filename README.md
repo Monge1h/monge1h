@@ -3,7 +3,7 @@
 <h3 align="center">I'm a software engineer that loves to create creatives projects</h3>
 
 ---
-- 🚀 I’m currently working at [terapify](https://www.terapify.com/)
+- 🚀 I’m currently looking for a new job
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://www.monge1h.com/projects)
 
